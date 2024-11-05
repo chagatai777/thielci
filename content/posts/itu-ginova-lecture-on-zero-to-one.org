@@ -1,0 +1,197 @@
+#+TITLE: ITU Ginova Lecture on Zero to One
+#+DATE: 2024-11-05T13:55:21Z
+#+DRAFT: false
+
+* Why this talk?
+
+I couldn't find others who shared these ideas.  Of all the startup
+ideas I've seen, and of all the young people I've talked to for the
+purposes of doing a startup project, I couldn't find people that
+was interested in the similar "culture" or understanding of what
+should constitute a startup idea.
+
+Before attending the ginova course, I had read Peter Thiel's book
+zero to one.  Also, I was aware of the calibre of the startup ideas
+that come out and have come out of the YCombinator, the Silicon
+Valley, etc.  Google, Paypal, Twitter, Facebook, OpenAI, Neuralink,
+etc. all operate on a very different understanding of technology
+and human society, tech startups and profits, and the goals,
+etc. -- I see no such inner understanding around here.
+
+The problem is we are solely copying what we see from the outside
+of these examples: just start the next social media platform, just
+code the next killer app, just make the next chatgpt wrapper app...
+But all of these miss out the critical component of the whole
+process -- that, the mindset and the goals of their founders.
+
+In this talk, I will briefly introduce some of the ideas from Peter
+Thiel's Zero to One, as I believe, he honestly puts forth the inner
+motivations of the founders of one such startup and the things he
+had learned from executing it, PayPal.
+
+* Zero to One
+
+Well, famously, Peter Thiel says, "The next Zuckerberg won't start
+a social media site; the next Bill Gates won't start a desktop OS
+company.  If you are simply copying from them, you aren't learning
+from them."
+
+This is quite prescient, because most of the time, all we see
+around us are young wannabe startup founders directly copying what
+they saw from figures such as these.  "If only I act like them,
+repeat their actions and their steps, surely I will be reaching
+somewhere someplace".  This is cargo cult understanding of a
+startup success, and a very simple example of monkey see monkey do.
+
+Instead of simply copying the visible forms of their actions, we
+should understand their thought processes that had led them to
+these actions that we have observed in their startup careers.
+
+So, here are a few of the points that went into the Peter Thiel's
+actions, and the actions of other society-changing calibre silicon
+valley startups:
+
+** Going zero to one is more important than going one to many
+
+Zero to one, in this context, is using new advances in science
+and technology to introduce a technological product that enables
+a new mode of human action, that allows its users to reach their
+goals faster, cheaper and more efficiently.
+
+Going zero to many is distributing the wealth created with going
+from zero to one.  It is mainly logistics.
+
+Going zero to one is inventing the iphone.  Going one to many is
+distributing the iphone to the south east asian market.  Going
+zero to one is starting facebook.  Going one to many is facebook
+reaching 1 billion users, OR, starting another social media with
+a narrow, niche differentiator.  Going zero to one is getting
+the first electric car company with a product that looks and
+performs better than a golf-cart.  Going one to many is copying
+that model in the Chinese market and selling it to the European.
+
+In all these cases, the vertical movement of zero to one is the
+source of wealth that we as a society get to enjoy.  Without
+first someone coming up with iphone, nobody has an iphone or its
+competitor to buy.  The vertical movement is what brings new
+forms of products into existence.  This is how human behavior
+changes going from the past to the future generations.
+
+** Startups are the only form of human organization scheme that can achieve this vertical movement
+
+Simply put, small groups of people bound together by a sense of
+mission is what an early stage startup is.  This is the form of
+organization that's brought forth the now gigantic internet
+companies, social media companies, space exploration companies,
+AI companies, crypto currency companies, etc.
+
+Big and entrenched corpos are too busy with protecting their
+market share in the existing markets.  They are also burdened
+with excessive bureaucracy and paper-work that stifles much of
+the needed exploratory attempts at new products using new
+techniques.
+
+Government organizations are too big, unfocused, nepotistic and
+lacking the financial constraint that moves people to strive for
+success.  If you know that you next paycheck will arrive
+regardless of your work, then you don't have the sense of
+urgency for what you do.
+
+Only in startup environments, which consist of young, hungry
+people who are closely familiar with the newest technologies can
+a truly disruptive startup doing the vertical movement arise.
+
+** Startups should aim for markets in which they can establish themselves as the monopoly
+
+Competition eats away the profits and causes the firms to be brutal in
+how they treat their employees.  Dwindling profit margins cause a firm
+to get their workers work overtimes and at minimum wage amounts.  A
+company in a competitive market cannot lift its gaze form day to day
+survival to the long term business planning.
+
+In contrast, Monopoly profits are what allows companies to pay higher
+wages to their employees, allow more flexible work hours, and also get
+the company to plan for the years ahead.  This such a leeway allows
+companies to innovate new technologies.  Due to the monopoly position
+Google has had enjoyed so far, it was able to drop necessary money
+into researching and developing the android platform, its phone
+models, its AI program (Alpha-Go, etc.), and its self-driving car
+program (Waymo).  Such R&D programs allow Google (and other companies
+that enjoy monopoly profits) to continue creating new technologies and
+make the zero to one vertical movement with new products, and
+ultimately increasing the wealth and prosperity that we all eventuall
+get to enjoy.  A company that has cut-throat profit margins is in no
+way to have resources required for R&D activities let alone the zero
+to one movement.
+
+In addition to these, another reason for why a startup should aim for
+becoming a monopoly in its own market, is that, the venture capital is
+only interested in 100x returns (and if possible, 1000x returns).  No
+VC is hungry for financing the next Indian Restaurant in the city
+center, nor financing the next dry cleaner operation.  This is because
+in such enterprises, the growth potential is quite small, their
+markets are already fractured into thousand pieces amongst thousand
+different establishments competing over the same market.  VC's are
+only interested in investing in startups if they have the potential to
+100x their investment.  And that is only possible for startups that
+have the potential to reach monopoly status in their markets.
+
+Lastly, on a more personal note, I find faux startups who have
+regurgitated mission statements and products that we have seen
+countless times before, simply boring.  The next "killer app", or the
+next twitter-clone, or the next airbnb clone -- I don't find such
+endeavors worthy of my 100 hour work-week attention.  As you start a
+startup, it will become your life, you won't have a thing as work-life
+balance.  So, wouldn't it make sense that the work in that startup
+should be something new, original, strikingly dissimilar to most of
+the stuff that you'd seen?  If all you are going to do is get your
+"startup" to do some R&D work for an established banking corporation's
+artificial intelligence arm, why not enter that corporation as a
+white-collar worker?
+
+* Conclusion
+
+As new startup founders, we shouldn't merely copy the visible
+portion of the successful entrepreneurs' actions; but also
+understand how they think, and apply their thinking to our own
+particular situation in our locale.  Applying startup founding
+methods (like pivoting, or filling out various "canvasses") without
+understanding what made these methods to spring up in the first
+place, is no different than acting a cargo-cult and expecting
+magical results.
+
+Vertical movement of progress (that is, going "zero to one") is
+more important than the horizontal movement of progress (that is,
+going "one to many").  The vertical movement is the products and
+services that make use of new technologies.  The horizontal
+movement is the business of making the production and distribution
+of these technologies faster and cheaper -- it is logistics (or,
+globalization).
+
+Startups should concern themselves with the vertical movement of
+progress.  Startups are the only human organization form that can
+achieve this vertical movement of progress.
+
+The biggest motivator for the founders and the venture capital
+firms alike, in their interest in the startups, is the monopoly
+profits.  Only if there are monopoly profits to be gained, the busy
+and heavy workload of a startup environment justify itself.  Only
+if there are monopoly profits to be gained, then the venture
+capital investment into the startups redeem itself.
+
+Lastly, I started my talk with the complaint that I couldn't find
+other young co-founders sharing these visions with me.  Well, in
+order to alleviate this situation, I have started a discussion
+group on the book Zero to One.  We are a small group, and we have
+had our first meeting last week.  We discussed the book's first 4
+chapters, containing the ideas that I have briefly presented to
+you.  We are looking for interested people to join us.  We will be
+reading other books that get you grasp why you do what you, or why
+you should be doing what you are not yet doing.  These books are
+the books such as:
+
+1. Innovator's Dilemma, by Clayton Christensen
+
+2. Crossing The Chasm, by Geoffrey Moore
+
+3. Behind The Cloud, by Mark Benioff
