@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Nov 2024 13:55:21 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ITU Ginova Lecture on Zero to One</title>
+      <link>http://example.org/posts/itu-ginova-lecture-on-zero-to-one/</link>
+      <pubDate>Tue, 05 Nov 2024 13:55:21 +0000</pubDate>
+      
+      <guid>http://example.org/posts/itu-ginova-lecture-on-zero-to-one/</guid>
+      <description>Why this talk? I couldn&amp;#39;t find others who shared these ideas. Of all the startup ideas I&amp;#39;ve seen, and of all the young people I&amp;#39;ve talked to for the purposes of doing a startup project, I couldn&amp;#39;t find people that was interested in the similar &amp;#34;culture&amp;#34; or understanding of what should constitute a startup idea.
+Before attending the ginova course, I had read Peter Thiel&amp;#39;s book zero to one. Also, I was aware of the calibre of the startup ideas that come out and have come out of the YCombinator, the Silicon Valley, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
