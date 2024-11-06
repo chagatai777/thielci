@@ -2,3 +2,8 @@ baseURL = 'https://thielci.org/'
 languageCode = 'en-us'
 title = 'Thielci.org'
 theme = 'Mainroad-master'
+
+[Author]
+  name = "Cagatay Eren"
+  bio = "signal: @cagatay.77"
+
