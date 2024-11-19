@@ -1,5 +1,5 @@
 #+TITLE: Thielci
 #+DESCRIPTION: 
-#+featured_image: /images/exit.avif
+#+FEATURED_IMAGE: /images/exit.avif
 
 The next /Sam Altman/ will *not* create an LLM chatbot.
