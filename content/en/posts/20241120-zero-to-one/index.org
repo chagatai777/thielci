@@ -1,11 +1,10 @@
 #+TITLE: Zero to One
-#+DATE: 2024-11-19T21:54:37Z
+#+DATE: 2024-11-19T22:40:40Z
 #+AUTHOR: Çağatay Eren
-#+TAGS[]: zero-to-one
+#+TAGS[]: tag1 tag2
 #+DESCRIPTION: A short summary of the post
 #+FEATURED_IMAGE: 
 #+COMMENTS: false
-#+SLUG: 20241119-zero-to-one
 #+DRAFT: false
 
 * Why this talk?
