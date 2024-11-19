@@ -15,13 +15,13 @@ featured_image = '/images/exit.avif'
 pagerSize = 8 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [languages.en]
-contentDir = "content/en"
+contentDir = "content"
 languageCode = 'en-US'
 weight = 1
 title = "Thielci"
 
 [languages.tr]
-contentDir = "content/tr"
+contentDir = "content"
 languageCode = 'tr-TR'
 weight = 2
 title = "Thielci"
