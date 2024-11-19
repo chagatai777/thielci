@@ -1,4 +1,9 @@
 #+TITLE: {{ replace .Name "-" " " | title }}
 #+DATE: {{ .Date }}
+#+AUTHOR: Çağatay Eren
+#+TAGS[]: tag1 tag2
+#+DESCRIPTION: A short summary of the post
+#+FEATURED_IMAGE: /path/to/image.jpg
+#+COMMENTS: false
 #+DRAFT: true
 
