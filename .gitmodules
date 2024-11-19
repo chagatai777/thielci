@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-thielci"]
+	path = themes/hugo-theme-thielci
+	url = git@github.com:chagatai777/hugo-theme-thielci.git
