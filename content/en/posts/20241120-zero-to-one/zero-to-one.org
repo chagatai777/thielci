@@ -1,9 +1,12 @@
-#+TITLE: ITU Ginova Lecture on Zero to One
-#+DATE: 2024-11-05T13:55:21Z
+#+TITLE: Zero to One
+#+DATE: 2024-11-19T21:54:37Z
+#+AUTHOR: Çağatay Eren
+#+TAGS[]: zero-to-one
+#+DESCRIPTION: A short summary of the post
+#+FEATURED_IMAGE: 
+#+COMMENTS: false
+#+SLUG: 20241119-zero-to-one
 #+DRAFT: false
-#+AUTHOR: Cagatay Eren
-#+TAGS[]: test zero-to-one niger
-
 
 * Why this talk?
 
