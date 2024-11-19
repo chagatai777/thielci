@@ -1,0 +1,5 @@
+#+TITLE: Thielci
+#+DESCRIPTION: 
+#+featured_image: /images/exit.avif
+
+Bir sonraki /Sam Altman/ yeni bir LLM chatbot'u *yapmayacak*.
