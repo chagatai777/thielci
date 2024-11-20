@@ -5,6 +5,7 @@ author: "{{ .Site.Params.author | default "Default Author" }}"
 tags: []
 description: "A short summary of the post"
 featured_image: "/path/to/image.jpg"
+toc: true
 comments: false
 draft: true
 ---
