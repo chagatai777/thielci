@@ -50,6 +50,8 @@ featured_image_class = "cover bg-top"
 # "bg-" and add the value such as "-X0" where X is in [1,9]
 cover_dimming_class = "bg-black-60"
 recent_posts_number = 8
+# css overrides
+custom_css = ["toc_styles_override.css"]
 
 [permalinks]
 posts = "/:sections/:slug/"
