@@ -1,0 +1,58 @@
+/* Overrides for Table of Contents styling */
+#TableOfContents ul li {
+    margin-bottom: 1.5em; /* Add space between items */
+    padding-left: 1em;    /* Add padding for better readability */
+}
+
+#TableOfContents ul li ul {
+    margin-left: 1.5em;   /* Indent nested lists */
+}
+
+/* Default layout for wide screens: Two-column layout */
+article {
+    display: flex; /* Enable flexbox for layout */
+    flex-direction: row; /* Horizontal layout for wide screens */
+    align-items: flex-start; /* Align items at the top */
+}
+
+/* Blog content layout for wide screens */
+article > .nested-copy-line-height {
+    order: 0; /* Blog content stays on the left */
+    flex: 2; /* Content takes up more space */
+    width: 70%; /* Ensure it spans most of the screen */
+}
+
+/* Sidebar (TOC) layout for wide screens */
+article > aside {
+    order: 1; /* TOC stays in the sidebar (right) */
+    flex: 1; /* Sidebar takes less space */
+    margin-left: 2rem; /* Add spacing between content and sidebar */
+    width: 30%; /* Fixed width for the TOC sidebar */
+}
+
+/* Hide the TOC in the header for wide screens */
+header aside {
+    display: none; /* Header TOC should not appear on wide screens */
+}
+
+/* Narrow screens (viewport < 768px): Stack elements vertically */
+@media (max-width: 768px) {
+    article {
+        flex-direction: column; /* Stack elements vertically */
+    }
+
+    header aside {
+        display: block; /* Show TOC in the header */
+        width: 100%; /* Full width for the TOC */
+        margin-bottom: 1.5rem; /* Add spacing below the TOC */
+    }
+
+    article > aside {
+        display: none; /* Hide wide-screen TOC in narrow screens */
+    }
+
+    article > .nested-copy-line-height {
+        order: 0; /* Blog content comes below the TOC */
+        width: 100%; /* Full width for content */
+    }
+}
