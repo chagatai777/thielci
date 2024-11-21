@@ -6,22 +6,22 @@ languageCode = 'en-us'
 theme = 'hugo-theme-thielci'
 
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 sectionPagesMenu = "main"
 enableRobotsTXT = true
-
-featured_image = '/images/exit.avif'
 
 [pagination]
 pagerSize = 8 # this is set low for demonstrating with dummy content. Set to a higher number
 
+[languages]
 [languages.en]
-contentDir = "content"
+contentDir = "content/en"
 languageCode = 'en-US'
 weight = 1
 title = "Thielci"
 
 [languages.tr]
-contentDir = "content"
+contentDir = "content/tr"
 languageCode = 'tr-TR'
 weight = 2
 title = "Thielci"
@@ -55,3 +55,6 @@ custom_css = ["toc_styles_override.css"]
 
 [permalinks]
 posts = "/:sections/:slug/"
+
+[taxonomies]
+tag = 'tags'
