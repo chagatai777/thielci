@@ -60,3 +60,15 @@ posts = "/:sections/:slug/"
 
 [taxonomies]
 tag = 'tags'
+
+[params.ananke.social.follow]
+new_windows_icon = true
+networks = [
+  "rss"
+]
+
+[languages.en.params.ananke.social.rss]
+profilelink = "/en/posts/index.xml"
+
+[languages.tr.params.ananke.social.rss]
+profilelink = "/tr/posts/index.xml"
