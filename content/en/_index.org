@@ -1,5 +1,5 @@
-#+TITLE: Thielci
-#+DESCRIPTION: 
-#+FEATURED_IMAGE: /images/exit.avif
+#+TITLE: Posts
+#+DESCRIPTION: A collection of posts about entrepreneurship and innovation.
+#+FEATURED_IMAGE: image.jpg
 
-The next /Sam Altman/ will *not* create an LLM chatbot.
+TESTING MAINPAGE CONTENT

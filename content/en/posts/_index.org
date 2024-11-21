@@ -1,3 +1,2 @@
 #+TITLE: Posts
-
-Hello motherfucker.
+#+DESCRIPTION: A collection of posts about entrepreneurship and innovation.

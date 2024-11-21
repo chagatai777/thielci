@@ -1,5 +1,5 @@
-#+TITLE: Thielci
-#+DESCRIPTION: 
-#+featured_image: /images/exit.avif
+#+TITLE: Posts
+#+DESCRIPTION: A collection of posts about entrepreneurship and innovation.
+#+FEATURED_IMAGE: image.jpg
 
-Bir sonraki /Sam Altman/ yeni bir LLM chatbot'u *yapmayacak*.
+ANANI SIKEYIM
