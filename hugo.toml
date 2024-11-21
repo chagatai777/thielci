@@ -15,16 +15,18 @@ pagerSize = 8 # this is set low for demonstrating with dummy content. Set to a h
 
 [languages]
 [languages.en]
-contentDir = "content/en"
+disabled = false
 languageCode = 'en-US'
+languageDirection = 'ltr'
+title = 'Thielci'
 weight = 1
-title = "Thielci"
 
 [languages.tr]
-contentDir = "content/tr"
+disabled = false
 languageCode = 'tr-TR'
+languageDirection = 'ltr'
+title = 'Thielci'
 weight = 2
-title = "Thielci"
 
 [sitemap]
 changefreq = "monthly"

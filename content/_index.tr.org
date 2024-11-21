@@ -1,2 +1,5 @@
 #+TITLE: Posts
 #+DESCRIPTION: A collection of posts about entrepreneurship and innovation.
+#+FEATURED_IMAGE: image.jpg
+
+Turkce taraf.
