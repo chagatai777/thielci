@@ -3,9 +3,10 @@
 #+AUTHOR: Çağatay Eren
 #+TAGS[]: tag1 tag2
 #+DESCRIPTION: A short summary of the post
-#+FEATURED_IMAGE: 
+#+FEATURED_IMAGE: exit.avif
 #+COMMENTS: false
 #+DRAFT: false
+#+TOC: true
 
 * Why this talk?
 
