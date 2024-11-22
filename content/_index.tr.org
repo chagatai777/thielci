@@ -1,5 +1,4 @@
-#+TITLE: Posts
+#+TITLE: Yayınlar
 #+DESCRIPTION: A collection of posts about entrepreneurship and innovation.
-#+FEATURED_IMAGE: image.jpg
+#+FEATURED_IMAGE: exit.jpg
 
-Turkce taraf.
