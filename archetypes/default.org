@@ -1,5 +1,6 @@
-#+TITLE: {{ replace .Name "-" " " | title }}
+#+TITLE: {{ replace (substr .Name 9) "-" " " | title }}
 #+DATE: {{ .Date }}
+#+SLUG: {{ substr .Name 9 }}
 #+AUTHOR: Çağatay Eren
 #+TAGS[]: tag1 tag2
 #+DESCRIPTION: A short summary of the post
