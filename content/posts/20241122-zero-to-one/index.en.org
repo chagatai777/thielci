@@ -2,10 +2,282 @@
 #+DATE: 2024-11-22T09:16:01Z
 #+SLUG: zero-to-one
 #+AUTHOR: Çağatay Eren
-#+TAGS[]: tag1 tag2
-#+DESCRIPTION: A short summary of the post
-#+FEATURED_IMAGE: /path/to/image.jpg
+#+TAGS[]: zero-to-one startups theory
+#+DESCRIPTION: The next Sam Altman will not create an LLM chatbot
+#+FEATURED_IMAGE: turkosama_reduced.jpg
 #+TOC: true
 #+COMMENTS: false
-#+DRAFT: true
+#+DRAFT: false
 
+* Why not a Turkish Sam Altman?
+
+Or an Elon Musk?  What about Mark Zuckerberg?  Why isn't Turkiye a
+fertile ground for the founders of such powerful companies to sprout?
+Is it a money problem, that this Anatolian country lacks the capital
+available for investment into the new and ridiculous-looking startups?
+Is it the political hurdles?  The answer: although these factors play
+some part in the current predicament of Turkiye in this topic, it is
+our contention that the /main reason/ an Elon Musk didn't grow out of
+Turkiye is one of *mindset*.
+
+With the advent of the internet, instant telecommunications, and
+moreover with the arrival of serious crypto currencies such as Bitcoin
+and Monero, the international capital is available for the reaching
+easier than ever, giving local entrepreneurs an option to reach
+capital beyond their geographical constraints.  The same factors that
+made capital available globally and in a highly liquid state, has also
+made the local petty politics a weaker hindering factor for any given
+"wannabe" entrepreneur.  Nowadays the entrepreneurs in any locality
+can easily start their companies completely on the internet, without
+having to wrestle with perhaps despotic, sometimes idiotic, but mostly
+archaic government regulations.  Such neo-entrepreneurs can build
+their companies in [[https://www.torproject.org/][untraceable cloud computer networks]], can use
+[[https://www.getmonero.org/][untraceable digital money]] to fund their operations, and reach a global
+customer base by leveraging the "liquidness" of software -- all
+without even needing to register with whatever local political
+"authority" there is in their locale.
+
+So back to our original question: why is there no groundbreaking
+startup CEOs around here in Istanbul?  Perhaps one answer is, "They
+have relocated to Berlin/Amsterdam/San Francisco."  Sure.  Eliminating
+the cases of the brain drain, we are still left with a huge population
+of young demographic, who are quite highly educated (however broken
+that education may be).  Still, trust me, if you go to the campuses of
+the top 10 universities of Turkiye, you will find quite intelligent
+young people.  So, the raw /menschenmaterial/ is present, however, it
+lacks some *catalyst*.
+
+#+ATTR_HTML: :title One can make all kinds of explosives using simple household items
+#+ATTR_HTML: :alt One can make all kinds of explosives using simple household items
+#+CAPTION: "/One can make all kinds of explosives using simple household items./"
+[[file:fc.jpg]]
+
+* The reason why there's no Turkish Sam Altman is because no Turk thinks like Sam Altman
+
+So before we can even have a Turkish Sam Altman, first we have to
+learn to think like Sam Altman.  In order to learn that, we have to
+learn, in general, how a Silicon Valley/Stanford/Harvard tech startup
+entrepreneur looks at the world, how he sees the world, and in what
+manner he forms goals for the reaching, in the world.
+
+Where do you learn that?  One of the best resources for that is *Peter
+Thiel*'s [[https://annas-archive.org/search?index=&page=1&q=zero+to+one+peter+thiel&sort=&display=][Zero to One]] book.  Reading /Zero to One/, one can peek into
+the mind of a powerful, wealthy and influential tech startup founder,
+and learn from his example.
+
+* Lessons from Zero to One
+
+** How the future relates to the present
+
+By definition, the future is a place where things are different from
+the present.  In this sense, the mere passing of time doesn't
+constitute for the arrival of the future.  In order to get to the
+future, the things *has to* change.  This change might take 5 years to
+get to your doorstep (think of some Neuralink-style brain-computer
+interfaces); if so, then that means the future is 5 years away.  This
+change might take 100 years to be in your reach (think of some severe
+global event causing a slowdown in the rate of the scientific and the
+technological progress, and you don't get your Neuralink for a long
+time), then, the future is 100 years away.  Regardless of how long it
+takes, the constant thing is, *the future defines itself as something
+different from the present.*
+
+Such an understanding of the future immediately puts it in a conflict
+dyad with the present.
+
+In this framing, change emerges from new understandings of the
+material world gained through the scientific process and the
+techniques these insights enable for the human societies.  Scientists
+bulldoze through the unknown and increase the diameter of the known
+area against the outer area of the unknown.  Technologists invent new
+tools using the new scientific information and dissipate these tools
+into the human society.  *New tools enable new human behavior, change
+the old behavior, and make the old behavior obsolete and abandoned.*
+In such a view, the change in human behavior fueled by technology is
+something that comes from outside of whatever the local politics,
+culture, and religion intends to command with regards to the human
+behavior.  And because the change comes from outside of those, those
+things fail at containing and constraining it.
+
+The role of the tech entrepreneur is this: /bringing the future into
+the present./ The future is going to arrive, but the tech
+entrepreneurs of the Silicon Valley make it arrive faster.  The tech
+entrepreneur uses the new horizons in technique to devise new products
+and services.  A few examples: the advances in electronics that made
+chips, capacitors, batteries, transformers, smaller and cheaper
+allowed Apple to disrupt the existing server computer market by
+introducing the household-type computer.  The advances in disk
+storage, memory technology, processor speeds allowed Microsoft to
+distribute larger and more capable personal computer operating
+systems.  Email protocol made the snail mail obsolete.  Faster
+internet speeds made human social behavior to migrate to the world of
+computer networks.  And now OpenAI and other companies, using the new
+techniques in large language models, are making large swaths of lazy
+girl jobs obsolete, while blockchain-based distributed crypto currency
+systems like BTC and XMR are taking the economic activity out of the
+outdated state structures.
+
+The future is wild, offensive and exciting.  *The future is
+different.*
+
+** Vertical progress and horizontal progress
+
+The change that brings about the future to the present is mostly
+fueled by vertical progress.  Vertical progress is a step change in
+doing things, OR, inventing *new tools that enable humans to do
+altogether novel things*.  Vertical progress is the invention of
+wireless radio by Tesla and Marconi, that does away with the telegraph
+wires.  Vertical progress is the invention of "assembly line
+production" in automobile factories by Henry Ford, which changed the
+existing paradigm of production.  Vertical progress is Apple's first
+iPhone, which put an internet-connected computer in everyone's pocket,
+changing the way a person interacts with the information age.
+Vertical progress is the creation of a feasible and scalable product,
+which did not exist before, and which, when used, allows for *novel
+human actions*.
+
+Horizontal progress, is the scaling of the vertical progress.  It is
+the distribution of the wealth and riches that the vertical progress
+creates, to a large number of customers and users.  Vertical progress
+is Jeff Bezos starting Amazon.com which moves shopping to a new realm
+(the internet), and horizontal progress is Amazon's entry into
+European, Middle Eastern, or Southeast Asian market.  Horizontal
+progress is, once properly turned into a product, covering the whole
+world with fiber optic undersea cables so that billions of people can
+experience high speed internet.  Another horizontal progress is
+SpaceX's making the satellite communication and reaching the Earth's
+orbit economically feasible, then turning these vertical progress into
+global satellite internet coverage.
+
+Vertical progress creates new economical value by allowing *novel
+human action* to take place, and horizontal progress turns these novel
+human actions into developed markets with an abundance of high quality
+and easily available products.
+
+In this analysis of the technological progress, the dashing tech
+startup founder should FIRST focus on creating the vertical progress
+with his company.  The primacy should be on the vertical progress,
+because, without it, there wouldn't be (and will not be) wealth that
+for the horizontal progress to distribute.  The fountainhead of
+betterment of the human material condition is the vertical progress.
+Apart from this perhaps faux-humanistic motivation, another perhaps
+more compelling motivation for the startup founder is that the returns
+on investment for the entrepreneur on vertical progress simply dwarves
+the ones that are available for the horizontal progress.  Creating a
+market by inventing the novel human action enabling product, by
+default, gives the company that creates it, an edge in also
+monopolizing the market and enjoying great monopoly profits (ex:
+Google and the internet search market).
+
+** The startup organizational scheme is optimal for its purpose
+
+So, the mission statement of the tech entrepreneur is bringing the
+future into the present, by changing some big or small subset of the
+current human behavior, by offering technological products and
+services at scale, which themselves are created by the newly captured
+horizons in the technique.
+
+What kind of a human social organization scheme is best suited for
+such a mission statement?  It is a group of highly smart and
+technologically capable founders (no more than 5 individuals), with a
+shared goal and a shared belief in the primacy of their goal, taking
+actions with a short-/medium-/long-term view of their operations.  It
+is the startup scheme of social organization that brings the future to
+the present.
+
+Big corpos which are lethargic under their own weight, very busy in
+dealing with their day-to-day operations and maintaining their
+existing lines of products and services, are simply unable to see the
+coming technological changes in the horizon, OR, even if they can see
+that, they are unable to act on such understandings.
+
+Government departments (lol) have all the disadvantages that big
+corpos have, but in addition, they also have the corruption issues,
+the tendency of anti-meritocratic selection of their personnel, and
+the detrimental effect of a steady paycheck irrespective of their
+operational performance.  Governments are simply filled with people
+who do not understand not only the new technology, but also the
+technology of the past 10 years.  They are cushy and secure job
+positions which do not have to deal with the current market's
+performance, reliability and cost requirements -- the educational
+ministry and its big army of officers get paid no matter how bad the
+country's education system.
+
+Only startups have the manpower, the vitality, and the intelligence
+required for bringing the future into the present.  Only startups
+allow and foster the actions of the will of the founder, who has a
+burning heart in his chest, and a larger-than-life ambitions for his
+own life in his mind.
+
+** Monopolies are good at capturing the value they create
+
+The mission statement of the entrepreneur is to bring the future into
+the present.  The future is a place where the human action is
+different from the present, fueled by new products and services that
+are born out of vertical progress.  And the human organization scheme
+that allows the founding fathers of a new company to reach into that
+future and bring it into the present is the form of a tech startup.
+
+Creation of economical value is not enough, the creator of this new
+economical value /has to/ capture some of the value he creates, in
+order to perpetuate his company's day-to-day operations.  A tech
+startup is different from existing companies in the sense that the
+former aims for a total domination of the markets they create.
+
+The markets in which competing companies exist have small profit
+margins.  A new entrant to such markets increase the supply of the
+product that satisfies a certain human need, driving the prices lower,
+which, in turn dwindling the profits that made the entrant motivated
+to enter that market in the first place.  This makes the entrant to
+pay low-wages to their workers, make them work long and inelastic
+hours, and make the whole business experience something similar to
+that of a brute trying to survive in a dangerous jungle.  The value
+that competing companies create evaporate in the heat of their
+competition, returning back into the entrant's treasury in ever
+decreasing amounts.  In this sense, entering into a competitive market
+is a loser's errand at worst and a let-down experience at best.
+
+Monopolies, on the other hand, are companies that enjoy secure market
+dominance positions and large profit margins.  Such earnings allow
+them to pay better salaries to their employees, allow them to work
+elastic hours, and have better amenities in the workplace.  (For the
+sake of this discussion, we assume the monopoly reaches its position
+by the superiority of its product and its service, not by government
+favors.  Google and its monopoly position in the search market is such
+an example.)
+
+Monopoly profits also allow the company that earns them to shift its
+gaze from the dirt ground and into the horizon of technical
+possibilities, allowing it to foresee, prepare and even bring about
+the new vertical progress.  Google's large profits allow it to fund
+its new ventures like the Android mobile device operating system, the
+Waymo self-driving taxi services, the cloud office productivity
+suites, the GMail, etc.  If Google were not able to generate monopoly
+profits, then, it wouldn't have cash to throw into such side ventures,
+and people would have to let go of the productivity boost that
+Google's side venture products and services create.
+
+In short, monopoly profits make the work environment more humane,
+allow the company to have a lower time preference, and allow the
+company keep producing new products and services which keep on
+bringing the ever farther future horizons into the present.
+
+* Lessons for the next Turkish Sam Altman
+
+We took a look at just the first 4 chapters of the book /Zero to One/.
+Yet, this is already a quite large chunk of change in the *mindset* of
+the regular Turkish "startup course attending university student."
+Let us summarize your newly acquired mindset: future is a place where
+the present human actions give way to their faster, cheaper and more
+efficient alternatives.  These new forms of human action are brought
+about by new understandings in science and technology.  As a tech
+entrepreneur, your sole *power* comes from being the one who brings
+about that specific future, by creating and then monopolizing the
+market of that new human activity.  Therefore, your gaze should be on
+the horizon of known technique, your comrades should be a small
+special ops team of technically minded people, and your startup's
+actions should aim at absolutely, ruthlessly dominating the new market
+you create.  That also means you not creating the next ChatGPT-wrapper
+for the purposes of earning the winner's position (yet losing in the
+bigger picture) in the next competition of your university's startup
+centre.  Because the next Sam Altman won't create an LLM chatbot.
