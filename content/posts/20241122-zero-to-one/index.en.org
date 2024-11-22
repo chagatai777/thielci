@@ -1,0 +1,11 @@
+#+TITLE: Zero to One
+#+DATE: 2024-11-22T09:16:01Z
+#+SLUG: zero-to-one
+#+AUTHOR: Çağatay Eren
+#+TAGS[]: tag1 tag2
+#+DESCRIPTION: A short summary of the post
+#+FEATURED_IMAGE: /path/to/image.jpg
+#+TOC: true
+#+COMMENTS: false
+#+DRAFT: true
+
