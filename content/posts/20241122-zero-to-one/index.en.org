@@ -281,3 +281,7 @@ you create.  That also means you not creating the next ChatGPT-wrapper
 for the purposes of winning (yet losing in the bigger picture) the
 next competition of your university's startup centre.  Because the
 next Sam Altman won't create an LLM chatbot.
+
+#+begin_src
+monero:88mhBV9oWhENuwvPgzsGur9QfCh3kvFNNXwnncpMHkA7jhV5WraykQ1TFLypWnqyS17MtWyDa1RLTha4qHFaTFy1CcrCM1n
+#+end_src
