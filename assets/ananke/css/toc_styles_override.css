@@ -23,7 +23,7 @@ article > .nested-copy-line-height {
 }
 
 /* Sidebar (TOC) layout for wide screens */
-article > aside {
+article > nav {
     order: 1; /* TOC stays in the sidebar (right) */
     flex: 1; /* Sidebar takes less space */
     margin-left: 2rem; /* Add spacing between content and sidebar */
@@ -31,7 +31,7 @@ article > aside {
 }
 
 /* Hide the TOC in the header for wide screens */
-header aside {
+header nav {
     display: none; /* Header TOC should not appear on wide screens */
 }
 
@@ -41,13 +41,13 @@ header aside {
         flex-direction: column; /* Stack elements vertically */
     }
 
-    header aside {
+    header nav {
         display: block; /* Show TOC in the header */
         width: 100%; /* Full width for the TOC */
         margin-bottom: 1.5rem; /* Add spacing below the TOC */
     }
 
-    article > aside {
+    article > nav {
         display: none; /* Hide wide-screen TOC in narrow screens */
     }
 
