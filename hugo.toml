@@ -1,6 +1,6 @@
 # Site Metadata
 title = 'Thielci'
-baseURL = '/'
+baseURL = 'https://thielci.org'
 relativeURLs = true
 canonifyURLs = false
 theme = 'hugo-theme-thielci'
