@@ -23,7 +23,7 @@ article > .nested-copy-line-height {
 }
 
 /* Sidebar (TOC) layout for wide screens */
-article > nav {
+article > aside {
     order: 1; /* TOC stays in the sidebar (right) */
     flex: 1; /* Sidebar takes less space */
     margin-left: 2rem; /* Add spacing between content and sidebar */
@@ -47,7 +47,7 @@ header nav {
         margin-bottom: 1.5rem; /* Add spacing below the TOC */
     }
 
-    article > nav {
+    article > aside {
         display: none; /* Hide wide-screen TOC in narrow screens */
     }
 
