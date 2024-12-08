@@ -10,7 +10,6 @@
 #+DRAFT: false
 
 * Prelude
-
 * Delayed Gratification
 ** Old economy biz vs new economy biz
 
@@ -139,11 +138,11 @@ will become the "*last mover*" to its market.
 * Conspiracy against the outsiders
 ** Definite thinking vs indefinite thinking
 
-The future can be brought into today in a definite shape.  It can be
+The [[{{< ref "posts/20241122-zero-to-one" >}}#headline-4][future can be brought]] into today in a definite shape.  It can be
 made to conform to our designs.  19th century building projects, such
 as great dams, undersea tunnel projects, or in the 20th century, the
 US intercontinental highway system were built according to this
-mindset.
+mental attitude.
 
 Nowadays not much people believe they can affect the incoming future.
 Perhaps that's why the finance sector has grown to its size in the US:
@@ -153,61 +152,96 @@ indefinite and untameable future.
 This indefinite understanding of the future has also affected how we
 think about new businesses today.  We praise leanness, and pivoting to
 new product designs in startups -- in fact, this "pivoting" (aka,
-changing your mind about the secret that your company has set out to
+changing your mind about "the secret" that your company has set out to
 exploit), has become something celebrated in startup centres in the
 Universities.  "We decided to pivot our product design to satisfy this
-/other/ need that we realized in the course of our work."  For the
-sake of "pivoting" many new startups do not flesh out their products,
-nor markets, and leave them to be "decided later as we go along".
+/other/ need that we now become aware of, in the course of our work."
+For the sake of "pivoting" many new startups do not flesh out their
+products, nor markets, and leave them to be "decided later as we go
+along".
 
 This is wasteful.  Instead, your company should be right about its
 "secret" from the outset, and pivot as little as possible.  Being
 right about its secret insight, the startup should plan to bring the
 material results of that insight into present by building its
-production and distribution lines and offering the product that comes
-from the future.
+production and distribution capabilities, and offering its customers
+the product that comes from the future.
 
 ** Secrets that make the conspiracy
 
-You will build your startup on top a secret, a conspiracy to change
-the world, by bringing a definite view of the future into the present.
-So, where do you find these secrets?  There are two sources:
+A "secret", in our context, is a piece of understanding about the
+world.  This understanding has to be more or less accurate, and has to
+point to a kernel of truth about the current (and near future) state
+of technique and human society.  Here are some of the possible secrets
+that today's successful companies may have made use of back in their
+early days:
+
+- The bulk of human knowledge will be on the internet, therefore,
+  whichever company gives people a product to search the world wide
+  web, will be immensely successful (Google, 1998).
+- Money is essentially a way for the people that make up a society to
+  communicate with each other about the production and consumption of
+  commodities.  Since money is communication, and internet is
+  communications en masse, it is only inevitable that monetary
+  networks (payments and banking) will move to the internet (Confinity
+  and X.com, before merging to form Paypal, in 1998).
+- People are vain and desire superficial social connections (Facebook,
+  in 2004).
+- White-collared office jockeys even more so! (LinkedIn, 2003)
+- Internet allows us to fulfill any consumer product order faster than
+  everbody else.  It also allows us to do this practically without
+  having to have any closed hours on our shop.  Facing with this
+  consumers will eventually move their shopping to our online platform
+  (Amazon, 1994).
+- State of the art improvements in electric motor, batteries, and
+  computerized power electronics are ready give the electric car a
+  winning edge over the gas-guzzling automobiles.  Given a sexy
+  design, people are more than ready to embrace this green,
+  alternative mobility (Tesla Motors, 2003).
+
+Each of these secrets, perhaps, was shared by other entrepreneurs as
+well.  Perhaps, some sizeable portion of the society were able to see
+"where the things were going" -- it was in the air.  Whatever the
+case, you had to have your nose in the wind.
+
+You will build your startup on top such a secret, a conspiracy to
+change the world, by bringing a definite view of the future into the
+present.  So, where do you find these secrets?  There are two sources:
 
 1. secrets about nature
 2. secrets about people
 
 These two categories of secrets sit in-between the known and the
 unknowable (ie, the mystery).  Secrets are the sources of great
-companies.  Only Uber, Airbnb, Facebook understood the secrets about
-people and addressed their unaddressed needs.
+companies.  Uber, Airbnb, Facebook, LinkedIn understood the secrets
+about people and addressed their unaddressed needs.
 
 To find secrets about nature, you study science.  To find secrets
 about people, you start asking questions about their taboos.  What
 notions are commonly accepted without deliberation?  Here's an example
-"secret" that not much people know about or consider:
+"secret" that not much people knows about or considers:
 
 #+begin_quote
-Consider the monopoly secret again: competition and capitalism are
-opposites.
+Competition and capitalism are the opposites.
 #+end_quote
 
 Once you become aware of this secret, you can start building a company
 with this secret understanding about the nature of competition vs
 capitalism, and aim for escaping the competition.  Depending on the
-accuracy of your insight into the secrets about people, you can direct
-yourself in the correct path (ie, the path of building a vertically
-innovating tech startup that will will be the last mover in its niche
-market and generate monopoly profits in the future).
+accuracy of your insight into the secrets about people, you can move
+yourself to the correct path (ie, the path of building a *vertically
+innovating* tech startup that will be the *last mover* in its niche
+market and generate *monopoly profits* in the future).
 
-Once you find such secrets, you tell these secrets only to the minimum
-amount of peoplpe who needs to know about them.  These small number of
-people that you share this common secret with are your co-founders,
-and the secret is the insight about reality that allows you to build a
-unique product around.
+*Once you find such secrets*, you tell these secrets only to the
+minimum amount of peoplpe who needs to know about them.  These small
+number of people that you share this common secret with, are your
+*co-founders*.  The secret is the insight about reality that allows
+you to *build a unique product* around.
 
-This is all there is to it: a great company is a conspiracy to change
-the world, and your co-conspirators are people who share the common
-secret allowing you to change the world.
+This is all there is to it: *a great company is a conspiracy to change
+the world*, and your co-conspirators are people who share the common
+secret which allows you to change the world.
 
 ** A company of co-conspirators
 
@@ -272,13 +306,13 @@ company and developing products that make the mission a success.
 
 * Bubble avoidance checklist
 
-Bubbles in tech industries occur.  One such example was the cleantect
+Bubbles in tech industries occur.  One such example was the clean tech
 bubble of the early 2000s.  Apparently everyone was starting a new
 solar panel production, installation and systems startup back in the
 day, expecting the green energy to be the new "internet".  However,
 for someone who knows where to look, the signs of a bubble was
 apparent.  Here are the questions that Peter Thiel used to judge (and
-foresee the bust of) the cleantech startups of early 2000s:
+foresee the bust of) the clean tech startups of early 2000s:
 
 1. *The Engineering Question:* Can you create breakthrough technology
    instead of incremental improvements?
