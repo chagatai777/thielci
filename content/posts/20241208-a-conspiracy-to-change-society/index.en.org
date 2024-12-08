@@ -328,3 +328,6 @@ if you can wield it.
 #+CAPTION: "/Jolly Roger/"
 {{< figure src="jolly_roger.jpg">}}
 
+#+begin_src
+monero:84wwA2SipMW9FhD6trj8dBLiT9o3WS9R2EP1ELQ6344k5y9KfpvUR4fCPjVABmxxk6GPCEQBbtDQu1vVmsTzFmc8BMkFJQV
+#+end_src
