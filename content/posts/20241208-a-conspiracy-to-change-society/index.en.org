@@ -10,6 +10,174 @@
 #+DRAFT: false
 
 * Prelude
+
+In the [[{{< ref "posts/20241122-zero-to-one" >}}][previous post]], we talked about the /mindset/ that goes into
+creating not only a monetary unicorn, but a socio-historical behemoth
+-- a company that has the *power* to change how we live.
+
+In this meditation, we will follow the idea of startups as
+techno-capital engines for social-change, and take a closer look at
+how they achieve this status.
+
+* Conspiracy against the outsiders
+** Definite thinking vs indefinite thinking
+
+The [[{{< ref "posts/20241122-zero-to-one" >}}#headline-4][future can be brought]] into today in a definite shape.  It can be
+made to conform to our designs.  19th century building projects, such
+as great dams, undersea tunnel projects, or in the 20th century, the
+US intercontinental highway system were built according to this
+mental attitude.
+
+Nowadays not much people believe they can affect the incoming future.
+Perhaps that's why the finance sector has grown to its size in the US:
+money is the ultimate optionality in the face of a (believed to be)
+indefinite and untameable future.
+
+This indefinite understanding of the future has also affected how we
+think about new businesses today.  We praise leanness, and pivoting to
+new product designs in startups -- in fact, this "pivoting" (aka,
+changing your mind about "the secret" that your company has set out to
+exploit), has become something celebrated in startup centres in the
+Universities.  "We decided to pivot our product design to satisfy this
+/other/ need that we now become aware of, in the course of our work."
+For the sake of "pivoting" many new startups do not flesh out their
+products, nor markets, and leave them to be "decided later as we go
+along".
+
+This is wasteful.  Instead, your company should be right about its
+"secret" from the outset, and pivot as little as possible.  Being
+right about its secret insight, the startup should plan to bring the
+material results of that insight into present by building its
+production and distribution capabilities, and offering its customers
+the product that comes from the future.
+
+** Secrets that make the conspiracy
+
+A "secret", in our context, is a piece of understanding about the
+world.  This understanding has to be more or less accurate, and has to
+point to a kernel of truth about the current (and near future) state
+of the technique and of human society.  Here are some of the possible
+secrets that today's successful companies may have made use of, back
+in their early days:
+
+- The bulk of human knowledge will be on the internet, therefore,
+  whichever company gives people a product to search the world wide
+  web, will be immensely successful (Google, 1998).
+- Money is essentially a way for the people that make up a society to
+  communicate with each other about the production and consumption of
+  commodities.  Since money is communication, and internet is
+  communications en masse, it is only inevitable that monetary
+  networks (payments and banking) will move to the internet (Confinity
+  and X.com, before merging to form Paypal, in 1998).
+- People are vain and desire superficial social connections (Facebook,
+  in 2004).
+- White-collared office jockeys even more so! (LinkedIn, 2003)
+- Internet allows us to fulfill any consumer product order faster than
+  everbody else.  It also allows us to do this practically without
+  having to have any closed hours on our shop.  Facing with this
+  consumers will eventually move their shopping to our online platform
+  (Amazon, 1994).
+- State of the art improvements in electric motor, batteries, and
+  computerized power electronics are ready give the electric car a
+  winning edge over the gas-guzzling automobiles.  Given a sexy
+  design, people are more than ready to embrace this green,
+  alternative mobility (Tesla Motors, 2003).
+
+Each of these secrets, perhaps, was shared by other entrepreneurs as
+well.  Perhaps, some sizeable portion of the society were able to see
+"where the things were going" -- it was in the air.  Whatever the
+case, you had to have your nose in the wind.
+
+You will build your startup on top such a secret, a conspiracy to
+change the world, by bringing a definite view of the future into the
+present.  So, where do you find these secrets?  There are two sources:
+
+1. secrets about nature
+2. secrets about people
+
+These two categories of secrets sit in-between the known and the
+unknowable (ie, the mystery).  Secrets are the sources of great
+companies.  Uber, Airbnb, Facebook, LinkedIn understood the secrets
+about people and addressed their unaddressed needs.
+
+To find secrets about nature, you study science.  To find secrets
+about people, you start asking questions about their taboos.  What
+notions are commonly accepted without deliberation?  Here's an example
+"secret" that not much people knows about or considers:
+
+#+begin_quote
+Competition and capitalism are the opposites.
+#+end_quote
+
+Once you become aware of this secret, you can start building a company
+with this secret understanding about the nature of competition vs
+capitalism, and aim for escaping the competition.  Depending on the
+accuracy of your insight into the secrets about people, you can move
+yourself to the correct path (ie, the path of building a *vertically
+innovating* tech startup that will be the *last mover* in its niche
+market and generate *monopoly profits* in the future).
+
+*Once you find such secrets*, you tell these secrets only to the
+minimum amount of peoplpe who needs to know about them.  These small
+number of people that you share this common secret with, are your
+*co-founders*.  The secret is the insight about reality that allows
+you to *build a unique product* around.
+
+This is all there is to it: *a great company is a conspiracy to change
+the world*, and your co-conspirators are people who share the common
+secret which allows you to change the world.
+
+** A company of co-conspirators
+
+Being a sole founder limits your ability to move from zero to one.
+Your abilities, resources and time are limited.  It is much better to
+pool in these resources with 3-4 other co-founders and work towards a
+common goal.
+
+At the same time, a startup has to have a right start.  A startup
+that's plagued with interpersonal problems among its co-founders from
+the very beginning is very difficult to fix.
+
+Therefore, you and your co-founders and you must get along.  You guys
+should be *on the same page about your understanding* of the business
+you are starting.  Moreover, you should understand *why* each one of
+you wants to start this particular business (and put in 100-hour work
+weeks for years).  And this understanding has to be shared among the
+co-founders.
+
+With this in mind, picking a co-founder at your local University's
+startup event *is simply insane*, only comparable to marrying someone
+you met 5 minutes ago.  "Hey you too code Python?  Let's start a
+startup."  How commonplace is such way of finding a "co-founder"?
+Unfortunately, too much.  And such startups do not get anywhere.
+
+#+begin_quote
+Founders should share a prehistory before they start a company
+together—otherwise they’re just rolling dice.
+#+end_quote
+
+In order to properly motivate the founders, in early stage startups
+they shouldn't get high yearly salaries.  In practical terms, this
+number shouldn't exceed 150k USD.  Anymore than that, the founders
+will start politicking about keeping their high salaries, rather than
+focusing completely on fixing the business operation problems, or
+developing a disruptive product.  Instead, giving the founders equity
+on company motivates them properly and aligns the founders' monetary
+incentives with the company's future success.
+
+When it comes to the employees, no startup can get on its feet with
+part time employees.  All the employees has to be committed full time
+to the business.  Furthermore, the colleagues should share the same
+office space, with no remote workers, day in and day out.  All of
+these are essential for instilling a sense of common, *shared
+struggle* among the founders and employees.
+
+Do not focus on benefits and paycheck.  If all it takes an employee to
+leave your company to join another one is a snack bar by the water
+cooler, then let him go.  Same for the salaries.  Instead of these,
+*the employee should be motivated by the mission statement* of the
+company and developing products that make the mission a success.
+
 * Delayed Gratification
 ** Old economy biz vs new economy biz
 
@@ -135,198 +303,28 @@ actually realize the product with a *long lasting company*.  Such a
 company will effectively dominate its market *for the next decade* and
 will become the "*last mover*" to its market.
 
-* Conspiracy against the outsiders
-** Definite thinking vs indefinite thinking
-
-The [[{{< ref "posts/20241122-zero-to-one" >}}#headline-4][future can be brought]] into today in a definite shape.  It can be
-made to conform to our designs.  19th century building projects, such
-as great dams, undersea tunnel projects, or in the 20th century, the
-US intercontinental highway system were built according to this
-mental attitude.
-
-Nowadays not much people believe they can affect the incoming future.
-Perhaps that's why the finance sector has grown to its size in the US:
-money is the ultimate optionality in the face of a (believed to be)
-indefinite and untameable future.
-
-This indefinite understanding of the future has also affected how we
-think about new businesses today.  We praise leanness, and pivoting to
-new product designs in startups -- in fact, this "pivoting" (aka,
-changing your mind about "the secret" that your company has set out to
-exploit), has become something celebrated in startup centres in the
-Universities.  "We decided to pivot our product design to satisfy this
-/other/ need that we now become aware of, in the course of our work."
-For the sake of "pivoting" many new startups do not flesh out their
-products, nor markets, and leave them to be "decided later as we go
-along".
-
-This is wasteful.  Instead, your company should be right about its
-"secret" from the outset, and pivot as little as possible.  Being
-right about its secret insight, the startup should plan to bring the
-material results of that insight into present by building its
-production and distribution capabilities, and offering its customers
-the product that comes from the future.
-
-** Secrets that make the conspiracy
-
-A "secret", in our context, is a piece of understanding about the
-world.  This understanding has to be more or less accurate, and has to
-point to a kernel of truth about the current (and near future) state
-of technique and human society.  Here are some of the possible secrets
-that today's successful companies may have made use of back in their
-early days:
-
-- The bulk of human knowledge will be on the internet, therefore,
-  whichever company gives people a product to search the world wide
-  web, will be immensely successful (Google, 1998).
-- Money is essentially a way for the people that make up a society to
-  communicate with each other about the production and consumption of
-  commodities.  Since money is communication, and internet is
-  communications en masse, it is only inevitable that monetary
-  networks (payments and banking) will move to the internet (Confinity
-  and X.com, before merging to form Paypal, in 1998).
-- People are vain and desire superficial social connections (Facebook,
-  in 2004).
-- White-collared office jockeys even more so! (LinkedIn, 2003)
-- Internet allows us to fulfill any consumer product order faster than
-  everbody else.  It also allows us to do this practically without
-  having to have any closed hours on our shop.  Facing with this
-  consumers will eventually move their shopping to our online platform
-  (Amazon, 1994).
-- State of the art improvements in electric motor, batteries, and
-  computerized power electronics are ready give the electric car a
-  winning edge over the gas-guzzling automobiles.  Given a sexy
-  design, people are more than ready to embrace this green,
-  alternative mobility (Tesla Motors, 2003).
-
-Each of these secrets, perhaps, was shared by other entrepreneurs as
-well.  Perhaps, some sizeable portion of the society were able to see
-"where the things were going" -- it was in the air.  Whatever the
-case, you had to have your nose in the wind.
-
-You will build your startup on top such a secret, a conspiracy to
-change the world, by bringing a definite view of the future into the
-present.  So, where do you find these secrets?  There are two sources:
-
-1. secrets about nature
-2. secrets about people
-
-These two categories of secrets sit in-between the known and the
-unknowable (ie, the mystery).  Secrets are the sources of great
-companies.  Uber, Airbnb, Facebook, LinkedIn understood the secrets
-about people and addressed their unaddressed needs.
-
-To find secrets about nature, you study science.  To find secrets
-about people, you start asking questions about their taboos.  What
-notions are commonly accepted without deliberation?  Here's an example
-"secret" that not much people knows about or considers:
-
-#+begin_quote
-Competition and capitalism are the opposites.
-#+end_quote
-
-Once you become aware of this secret, you can start building a company
-with this secret understanding about the nature of competition vs
-capitalism, and aim for escaping the competition.  Depending on the
-accuracy of your insight into the secrets about people, you can move
-yourself to the correct path (ie, the path of building a *vertically
-innovating* tech startup that will be the *last mover* in its niche
-market and generate *monopoly profits* in the future).
-
-*Once you find such secrets*, you tell these secrets only to the
-minimum amount of peoplpe who needs to know about them.  These small
-number of people that you share this common secret with, are your
-*co-founders*.  The secret is the insight about reality that allows
-you to *build a unique product* around.
-
-This is all there is to it: *a great company is a conspiracy to change
-the world*, and your co-conspirators are people who share the common
-secret which allows you to change the world.
-
-** A company of co-conspirators
-
-A startup has to have a right start.  A startup that's plagued with
-interpersonal problems among its co-founders from the start is very
-difficult to fix.
-
-As a founder, your co-founders and you must get along.  You guys
-should be on the same page about your understanding of the business
-you are starting.  Moreover, you should understand why each one of you
-wants to start this particular business (and put in 100-hour workweeks
-for years).  And this understanding has to be shared among the
-co-founders.
-
-In light of this, picking a co-founder at your local University's
-startup event is simply insane, only comparable to marrying someone
-you met 5 minutes ago.  "Hey you too code Python?  Let's start a
-startup."  How commonplace is such way of finding a co-founder?
-Unfortunately, very much.  And such startups do not get anywhere.
-
-
-#+begin_quote
-Founders should share a prehistory before they start a company
-together—otherwise they’re just rolling dice.
-#+end_quote
-
-Being a sole founder limits your ability to go from zero to one.  Your
-abilities, resources and time are limited.  It is much better to pool
-in these resources with 3-4 other co-founders and work towards a
-common goal.
-
-When working together with people in an institution, there can arise
-some "issues of alignment".  These issues are mainly about how owns
-the company, and who runs the company.  If the owners of the company
-aren't the ones who running it, there can arise issues of
-accountability.  It is important for the startup founders to both own
-the company and also to run it.
-
-With the employees, no startup can get on its feet with part time
-employees.  All the employees has to be committed full time to the
-business.  Furthermore, the colleagues should share the same office
-space, with no remote workers, day in and day out.  All of these are
-essential for instilling a sense of common, *shared struggle* among
-the founders and employees.
-
-Founders in early stage startups shouldn't get high yearly salaries.
-In practical terms, this number shouldn't exceed 150k USD.  Anymore
-than that, the founders will start politicking about keeping their
-high salaries, rather than focusing completely on fixing the business
-operation problems, or developing a disruptive product.  In addition
-to that, giving the founders equity on company motivates them further
-and aligns the founders' monetary incentives with the company's future
-success.
-
-Attracting employees.
-
-Do not focus on benefits and paycheck.  If all it takes an employee to
-leave your company to join another one is a snack bar by the water
-cooler, then let him go.  Same for the salaries.  Instead of these,
-the employee should be motivated by the mission statement of the
-company and developing products that make the mission a success.
-
-* Bubble avoidance checklist
-
-Bubbles in tech industries occur.  One such example was the clean tech
-bubble of the early 2000s.  Apparently everyone was starting a new
-solar panel production, installation and systems startup back in the
-day, expecting the green energy to be the new "internet".  However,
-for someone who knows where to look, the signs of a bubble was
-apparent.  Here are the questions that Peter Thiel used to judge (and
-foresee the bust of) the clean tech startups of early 2000s:
-
-1. *The Engineering Question:* Can you create breakthrough technology
-   instead of incremental improvements?
-2. *The Timing Question:* Is now the right time to start your
-   particular business?
-3. *The Monopoly Question:* Are you starting with a big share of a
-   small market? (you should be able to avoid the trap of exaggerating
-   your own uniqueness)
-4. *The People Question:* Do you have the right team?
-5. *The Distribution Question:* Do you have a way to not just create
-   but deliver your product?
-6. *The Durability Question:* Will your market position be defensible
-   10 and 20 years into the future?
-7. *The Secret Question:* Have you identified a unique opportunity
-   that others don’t see?
-
 * Conclusion
+
+A company is a bland cash flow machine that drip-feeds you some of its
+"flow" so that you make a living.  A /tech startup/ is a social,
+economic, and historical force that you unleash upon the earth.
+Recognizing the latter one as more worthy for your finite existence to
+pursue, you instantly find yourself in a conspiracy against the status
+quo.  In this scheme, your co-founders become your co-consPIRATE-ors,
+and your neo-tech product become your molotov coctail.
+
+However, not all /tech startups/ are of this character.  To make your
+startup of this character, you need to: aim for being accurate in your
+assessment of your "secret", becoming a monopoly in your niche, and
+growing your niche for the next 10 years.  As your product's and
+service's usage grows, you will eventually be changing the human
+behavior, and along with it, the social and historical "facts on the
+ground", much more faster and pronounced than any military-political
+events of history.  This is the real power of a tech startup, but only
+if you can wield it.
+
+#+ATTR_HTML: :title Jolly Roger
+#+ATTR_HTML: :alt Jolly Roger
+#+CAPTION: "/Jolly Roger/"
+{{< figure src="jolly_roger.jpg">}}
+
