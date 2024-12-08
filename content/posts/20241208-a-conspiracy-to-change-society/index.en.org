@@ -1,0 +1,143 @@
+#+TITLE: A Conspiracy to Change Society
+#+DATE: 2024-12-08T12:16:36Z
+#+SLUG: a-conspiracy-to-change-society
+#+AUTHOR: Çağatay Eren
+#+TAGS[]: zero-to-one startups theory
+#+DESCRIPTION: A startup is a conspiracy to change the world
+#+FEATURED_IMAGE: paypal_mafia.jpg
+#+TOC: true
+#+COMMENTS: false
+#+DRAFT: false
+
+* Prelude
+
+* Delayed Gratification
+** Old economy biz vs new economy biz
+
+Startups are different than existing businesses, because the existing
+businesses are evaluated by the cash flows they generate for
+themselves today, while for startups, they are evaluated for their
+ability of generating cash flows *in the future*.
+
+Old economy businesses, like The New York Times company of 2013, or
+other newspapers, nightclubs, restaurants, etc., generate revenues
+today.  They are, in a sense, already reached their peak potential in
+brand recognition, market positioning, and the products they offer to
+their customers.  Their peak profitability is in today and now, and
+they are pretty much open to disruption and competition from the new
+entrants, and thus open to losing their profits.
+
+With tech startups, the curve is inverted: most of them will generate
+big revenues not today, *but in the future* (given that they become
+successful monopolies).  Therefore, their valuation has to take into
+account this possible view of the future.
+
+This is also why Twitter was valued 10x more than the New York Times
+Company, back in 2013.  The investors expected Twitter to be able to
+generate *monopoly profits* in 10 years, while the newspapers'
+monopoly days was over.
+
+Since most tech companies' monopoly profits will come in the next
+10-15 years, the most important question to ask is: /"Is this startup
+going to be around in 10 to 15 years?"/
+
+** The road to becoming a monopoly
+
+Most new tech companies focus on the growth and earnings in the short
+term.  They become obsessed with short-term cash flow metrics and game
+their operations for maximizing these metrics.
+
+Instead of maximizing for these wrong metrics, the startup should
+focus on becoming monopoly in its target market (which has a narrowly
+defined scope in the founding days, yet growing its scope as the it
+matures).  In order to do that, it should carry the characteristics of
+monopolies in other markets that came before:
+
+*** 1. Proprietary tech
+
+Proprietary tech is a new and improved way of doing things.  This can
+be a product that allows the novel human behavior to take place
+(shopping on the net, socializing on the net, finding knowledge on the
+net), or a product that improves at least 10x over the existing way of
+doing things (10x cheaper and smaller electronic chips).  There is a
+difference between the quality and the quantity of things, but after
+some level of quantity, one may start observing changes in quality, as
+well.
+
+So, to recap, you can either: 
+1. invent a new tech and keep it secret (Google)
+2. improve the speed, efficiency and cost of an existing tech 10x
+   (Amazon)
+3. improve the visual and UX feel of a product (Apple and iPad)
+
+A proprietary tech is something that makes your company hard to be
+copied (ex: google and its search algo, back in the day).  You can
+build a moat around your technology in the form of trade secrets and
+patents, and protect your market turf from the simple copy-cats.  This
+is the case with inventing new tech.
+
+Of course inventing new things is more difficult than improving on the
+existing things.  In that case, your startup can also decide to focus
+on making its products at least 10x better in important metrics than
+its incumbents.  Example: Amazon's offering 10x more books than brick
+'n mortar bookstores.  Again, at some point a big advantage in
+quantity can turn into an advantage in quality.
+   
+*** 2. Network effects
+
+This is the property of a product and/or service to become more useful
+with more people using it.  However, the pitfall here is the startup
+execs becoming greedy and trying to bite more than they can chew by
+wanting to target "anyone and everyone".  Such ambitions are
+unrealistic at an early stage, and shows a lack of strategy for
+breaking into the market.  If your product needs every one and every
+computer to be on it in order to start being useful (Xanadu vs world
+wide web), you are doing it wrong.
+
+A new startup's initial network effect of its product should be aimed
+at *a small niche market*.  Facebook, by targeting the Harvard
+students first, did this right.  Google, by targeting the early
+webpage eacosystem of the web, did this right; and it grew as the web
+itself grew.  Google didn't start flat out by cataloguing any and all
+the knowledge of humanity, but started with only those portions of the
+human knowledge that was on the web.
+
+*** 3. Economies of scale
+
+Another good indicator of a monopoly business is that it gets bigger
+by little to no cost.  A gym, for example, doesn't conform to this
+requirement, because, a gym, given its size and the trainers it
+employs, can only serve at most a limit number of customers.  In order
+to grow that customer size beyond this limit, the owner has to hire
+more trainers, open another branch in the city center, etc. etc.  Even
+then, the gym owner's gains would be marginal, as the cost of a new
+place and salaries of the new employees would eat up his earnings from
+this new branch.
+
+A software product, in contrast, is able to reach a theoretically
+limitless number of customers, without having to scale the employees
+at the same time, because the marginal cost of copying a software
+product is zero.
+
+*** 4. Branding
+
+This is the most elusive one.  Because contrary to the others, there
+is no easy way to measure this.  The branding is important, and the
+company should own a distinct brand of itself.  As an example, Apple
+is one of the most distinguished companies that gets this point right.
+
+---
+
+If your company and your product carry these characteristics, then you
+should be aiming at creating a company that successfully generates
+monopoly profits 10 years in the future.  These 4 points are good
+indicators that you might have struck gold and then the job is to
+actually realize the product with a *long lasting company*.  Such a
+company will effectively dominate its market *for the next decade* and
+will become the "*last mover*" to its market.
+
+* Conspiracy against the outsiders
+
+* Bubble avoidance checklist
+
+* Conclusion
