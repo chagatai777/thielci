@@ -1,4 +1,4 @@
 #+TITLE: Yayınlar
-#+DESCRIPTION: A collection of posts about entrepreneurship and innovation.
+#+DESCRIPTION: Girişimcilik ve yenilikçilik hakkında yazılar.
 #+FEATURED_IMAGE: exit.jpg
 
