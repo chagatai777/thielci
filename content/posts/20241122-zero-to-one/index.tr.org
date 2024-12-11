@@ -1,0 +1,320 @@
+%#+TITLE: Sıfırdan Bire
+#+DATE: 2024-11-22T09:16:01Z
+#+SLUG: zero-to-one
+#+AUTHOR: Çağatay Eren
+#+TAGS[]: zero-to-one startups theory
+#+DESCRIPTION: Bir sonraki Sam Altman yeni bir LLM chatbot'u yaratmayacak.
+#+FEATURED_IMAGE: turkosama_reduced.jpg
+#+TOC: true
+#+COMMENTS: false
+#+DRAFT: false
+
+* Neden bir Türk Sam Altman yok?
+
+Veya bir Elon Musk?  Peki ya Mark Zuckerberg?  Neden Türkiye bunlar
+gibi güçlü şirketlerin kurucularının yetiştiği topraklardan değil?
+Sorun parada mı; bu Anadolu yurdu bunlar gibi kulağa absürt gelen
+girişimleri besleyecek sermayeden yoksun mu?  Yoksa sorun politik
+engellerde mi?  Yanıt: Türkiye'nin bu konudaki durumunda bu etmenler
+rol oynasa da, bizim tezimizce, bir Elon Musk'un Anadolu'dan
+yetişmemesindeki /ana sebep/ *düşünce yapısıdır*.
+
+İnternet, anlık haberleşme ve bunların da üzerinde Bitcoin ve Monero
+gibi ayağı yere basan kriptoparaların toplumlarda yayılmasıyla,
+uluslararası sermayeye erişim her zamankinden daha da kolay hale
+gelip, herhangi bir yerelde bulunan girişimcilere kendi coğrafi
+sınırları dışında kalan sermayeye kolayca ulaşma imkanı vermiştir.
+Küresel sermayeyi daha da likit hale getiren bu etmenler aynı zamanda
+girişimci olmak isteyen kişinin önünde bulunan yereldeki dar görüşlü
+politikacılık engelini zayıflatmıştır.  Günümüzde herhangi bir
+bölgedeki girişimciler tamamen internette yaşayan şirketler
+kurabilirler.  Böylece belki de despotça, kimi zaman aptalca, çoğu
+zaman da çağ dışı kalmış denetleme ve düzenlemelerin erişimi dışında
+iş yapabilirler.  Bu çeşit neo-girişimciler şirketlerini [[https://www.torproject.org/][izi
+sürülemeyen bilgisayar ağlarında]] kurup, [[https://www.getmonero.org/][izi sürülemeyen dijital para]]
+ile işletmelerini ayakta tutabilirken, aynı zamanda, yazılımın
+"akışkanlığını" kullanarak küresel çаpta bir müşteri ve kullanıcı
+tabanına ulaşabilirler.  Bunların hepsini yerelde bulunan herhangi bir
+"otoriteden" izin istemek zorunda kalmadan yapabilirler.
+
+O halde ana sorumuza geri donelim: Istanbul'da neden cigir acmis
+startup CEO'lari yok?  Belki de cevaplardan birisi, "Onlar
+Berlin/Amsterdam/San Francisco'ya gectiler."  Pekala.  Beyin gocu
+orneklerini ayri tutarsak, elimizde hala oldukca yuksek egitimli
+(egitimin kendisi her ne kadar bozuk olsa da) ve genc bir nufus var.
+Eger Turkiye'deki en iyi 10 universitelerin yerleskelerine giderseniz,
+etrafinizda oldukca zeki, genc insanlar goreceksiniz.  Demek oluyor
+ki, elimizde islenmemiz /menschenmaterial/ var, fakat, eksik olan sey
+biraz *katalizor*.
+
+O halde ana sorumuza geri dönelim: İstanbul'da neden çığır açmış
+startup CEO'ları yok?  Belki de cevaplardan birisi, "Onlar
+Berlin/Amsterdam/San Francisco'ya gectiler."  Pekala.  Beyin göçü
+örneklerini ayrı tutarsak, elimizde hala oldukça yüksek eğitimli
+(eğitimin kendisi her ne kadar bozuk olsa da) ve genç bir nüfus var.
+Eğer Türkiye'deki en iyi 10 üniversitenin yerleşkelerine giderseniz,
+etrafınızda oldukça zeki, genç insanlar göreceksiniz.  Demek oluyor
+ki, elimizde işlenmemiş /menschenmaterial/ var, fakat, eksik olan şey
+biraz *katalizör*.
+
+
+#+ATTR_HTML: :title Basit ev gereçlerinden çeşitli patlayıcılar yapmak mümkün
+#+ATTR_HTML: :alt Basit ev gereçlerinden çeşitli patlayıcılar yapmak mümkün
+#+CAPTION: "/Basit ev gereçlerinden çeşitli patlayıcılar yapmak mümkün./"
+{{< figure src="fc.jpg">}}
+
+* Bir Türk Sam Altman'ın bulunmamasının sebebi hiçbir Türk'ün Sam Altman gibi düşünmemesidir
+
+O halde bir Türk Sam Altman'a sahip olmadan önce bizim bir Sam Altman
+gibi düşünmeyi öğrenmemiz gerekir.  Bunu yapabilmek için, öncelikle,
+genel olarak, bir Silikon Vadisi/Stanford/Harvard teknoloji startup
+girişimcisinin dünyaya nasıl baktığını, onu nasıl gördüğünü, onun
+içinde erişmek için seçtiği hedefleri nasıl koyduğunu anlamamız
+gerekmektedir.
+
+Bunları nereden öğreneceğiz?  Bu amaç için en iyi kaynaklardan birisi
+*Peter Thiel*'in [[https://annas-archive.org/search?index=&page=1&q=zero+to+one+peter+thiel&sort=&display=][Zero to One]] kitabıdır.  /Zero to One/ kitabını
+okurken, oldukça güçlü, varlıklı ve etki sahibi bir startup
+kurucusunun aklının içindekilere bakabiliriz ve ondan öğrenebiliriz.
+
+* Zero to One'dan dersler
+
+** Geleceğin günümüze göre konumu
+
+Tanım olarak, gelecek denilen yer olayların günümüzden farklı olduğu
+bir yerdir.  Bu anlayışa göre, sadece zamanın geçmesi geleceğin
+günümüze geldiği anlamına gelmez.  Geleceğe varabilmemiz için
+*olayların değişmesi zorunludur*.  Bu çeşit bir değişikliğin sana
+varması 5 yıl sürebilir (Neuralink gibi bir beyin-bilgisayar
+arayüzünün üretilip eline geçtiğini düşün); o halde, gelecek 5 yıl
+uzaklıktadır.  Eğer bu gibi bir değişikliğin sana ulaşması 100 yıl
+sürerse (küresel kapsamda yıkıcı bir olayın bilim ve teknolojinin
+gelişme hızını yavaşlattığını düşün, ve bu nedenle Neuralink'ini uzun
+bir süre elde edemediğini düşün), o halde, gelecek 100 yıl
+uzaklıktadır.  Ne kadar uzun sürdüğünden bağımsız olarak, önemli olan
+ve değişmeyen şey, *geleceğin kendisini günümüzden farklı bir yer
+olarak tanımlamasıdır.*
+
+#+begin_quote
+Gelecek ve bugün bir çatışma içerisindedir.
+#+end_quote
+
+Bu çeşit bir gelecek anlayışı Anglo-Saxon kökenli batılıların
+düşünmeye alışkın oldukları, ancak Anadolulu Türklerin hala
+içselleştiremedikleri ve bilinçli olarak her seferinde kendilerini
+hatırlamaya ve kabul etmeye zorladıkları bir anlayıştır.
+
+Bu çeşit bir gelecek anlayışı, anında ve ilk olarak, kendisini bugün
+ile çatışma içerisine sokar.
+
+Bu pencereden incelendiğinde, değişiklik denilen şey, fiziksel evren
+hakkında bilimsel yöntem yoluyla elde edilen yeni kavrayışlar ve
+bunların yol açtığı yeni teknikler yolu ile gerçekleşir.  Bilim
+adamları bilinmeyeni çigneyip geçerken bilinen şeylerin alanına ait
+çapı genişletip, bilinmeyenin bulunduğu ufku öteye iterler.
+Teknolojistler yeni bilimsel bilgiyi kullanan yeni aletler üretip
+bunları toplumun içinde yayarlar.  Tüm bunlar gerçekleşirken, *yeni
+aletler yeni insan davranışlarını meydana getirir*, eski davranışları
+değiştirir, eski davranışları kullanılmaz ve terk edilmiş yaparlar.
+Bu çözümlemede, insan davranışında meydana gelen, ve teknolojinin
+harladığı, değişikliğin kökeni yerel topluma ait politikacılık,
+kültür, din ve ahlak kurumlarının dışından geldiği için, yine bu
+kurumlar bu değişimlere karşı koyma ve onu yönlendirme konusunda
+başarısızlığa uğrarlar.
+
+Teknoloji girişmcisine biçilen görev budur: /geleceği bugüne
+getirmek./ Gelecek bugüne varacak elbette, fakat Silikon Vadisindeki
+teknoloji girişimcileri bu sürecin daha hızlı gerçekleşmesini
+sağlarlar.  Teknoloji girişimcisi tekniğin ufkunda beliren yeni
+yöntemleri kullanarak yeni ürün ve hizmetler ortaya çıkarır.  Birkaç
+örnek: elektronik tekniğindeki gelişmeler yongaları, kapasitörleri,
+bataryaları, trafoları daha küçük boyutta ve daha ucuza üretilebilir
+yaptı.  Bu tür gelişmeler de Apple şirketinin evlere kişisel
+bilgisayar donanım ürünlerini satabilmesini sağladı.  Disk depolama,
+sanal hafıza, ve işlemci hızlarındaki gelişmeler Microsoft şirketinin
+daha geniş ve yetenekli işletim sistemlerini tüketicilere
+sunabilmesini sağladı.  E-posta protokolu PTT'yi terk etmemize sebep
+olurken, daha hızlı internet bağlantıları insanların sosyalleşme
+davranışlarını bilgisayar ağlarına taşıdı.  Ve şimdi, OpenAI ve diğer
+yeni şirketler büyük dil modellerindeki teknikleri kullanarak pek çok
+"tembel ofis çalışanı" işlerini otomatikleştirmekte, blokzincir
+tabanlı kriptoparalar (özellikle BTC ve *XMR* gibi) insanlar
+arasındaki ticari etkinliği zamanı geçmiş devlet yapılarından ve
+kısıtlamalarından kurtarmakta.
+
+Gelecek vahşi, OFANSIF ve heyecan verici.  *Gelecek, bugünden daha
+farklı.*
+
+** Dikey ilerleme ve yatay ilerleme
+
+Geleceği bugüne getiren değişim çoğunlukla dikey ilerlemeden beslenir.
+Dikey ilerleme iş yapış şeklimizde gerçekleşen kademe atlaması, VEYA,
+*insanların yeni işler yapmasını sağlayan yeni aletlerin icat
+edilmesidir*.  Dikey ilerleme Tesla ve Marconi'nin radyo
+haberleşmeşmesini icat etmesi ve uzak mesafe haberleşmeşmesini telgraf
+tellerinden kurtarmasıdır.  Dikey ilerleme Henry Ford'un otomobil
+üretimi için seri üretim hattı yöntemini icat etmesidir.  Dikey
+ilerleme herkesin cebine internete bağlanabilen bir bilgisayar sokarak
+onların bilgi çağıyla etkileşimlerini değiştiren Apple şirketinin
+iPhone ürünüdür.  Dikey ilerleme, daha önce bulunmayan, üretiminin
+mümkün ve genişleyebilir olduğu, kullanıldığında *insanlarda yeni
+davranışları meydana getiren* ürünler ortaya çıkarmaktır.
+
+Yatay ilerleme, bu dikey ilerlemenin çok sayıda kullanıcıya
+ulaşmasıdır.  Yatay ilerleme, dikey ilerlemenin yarattığı refah ve
+zenginliğin çok sayıda müşteri ve kullanıcılara yayılmasıdır.  Dikey
+ilerleme Jeff Bezos'un Amazon.com'u yaratarak alışverişi yeni bir
+sahaya taşıması (internet), yatay ilerleme ise Amazon'un Avrupa, Orta
+Doğu, ve Güneydoğu Asya'da kullanıcıların erişimine açılmasıdır.
+Yatay ilerleme, tamamen ürünleştikten sonra, dünyayı fiber optik
+kablolarla çevrelemek ve böylece milyarlarca insanı internete
+kavuşturmaktır.  Bir diğer yatay ilerleme SpaceX'in yörüngeye yük
+taşıma bedelini tekrar kullanılabilir roketlerle indirmesinin ardından
+(dikey ilerleme), yörüngeye haberleşme uyduları yerleştirip, küresel
+çapta internet erişimini müşterilere sunabilmesidir (yatay ilerleme).
+
+Dikey ilerleme *yeni insan davranışlarını yaratabildiği için yeni
+ekonomik değer yaratır*, ve yatay ilerleme bu yeni insan
+davranışlarını yüksek kaliteli ve kolayca erişilebilir ürünlerin
+bulunduğu pazarlara çevirir.
+
+Teknolojik ilerlemeye ilişkin bu çözümlemede, atılgan tech startup
+kurucusu ÖNCE dikey ilerleme gerçekleştirmenin peşinde olmalıdır.
+Öncelik sıralaması dikey ilerlemeyle başlamalıdır, çünkü dikey
+ilerleme olmadan yatay ilerlemenin dağıtacağı refah ve zenginlik de
+olmayacaktır.  İnsanlığın kendini içinde bulduğu maddesel durumu
+iyileştirmenin kaynağı bu dikey ilerlemelerdir.  Bu çeşit bir
+yapmacık-humanistçi motivasyonun yanında, startup kurucusunu belki de
+daha çok isteklendirip harekete geçirecek olan şey, dikey ilerlemenin
+getirdiği parasal kazancın yatay ilerlemeyle gelenlerden katbekat daha
+fazla olmasıdır.  Yeni insan davranışlarını meydana getirip oradan
+yeni bir pazar yaratabilen bir ürüne sahip şirket, daha başlangıçtan o
+pazarda tekilci hakimiyet kurabilmede öndedir (örnek: Google ve
+internet arama motoru pazarı)
+
+** Startup örgütlenme yapısı amacına en uygunudur
+
+O halde, bizim burada tartıştığımız şekliyle, tech startup
+girişimcisinin görevi: şu anki insan davranışının küçük veya büyük bir
+kısmını değiştiren, teknolojik olay ufkunun daha yeni ortaya çıkardığı
+yöntemleri kullanan ürün ve hizmetleri yaratarak, geleceği günümüze
+getirmektir.
+
+Bu çeşit bir görev tanımını başarıyla tamamlayacak insan organizasyon
+şekli hangisidir?  Bu organizasyon şekli bir grup (5 kişiden az
+sayıda) oldukça zeki ve teknolojik olarak yetenekli, birbirleri
+arasında ortak hedef ve o ortak hedefin üstün önceliği konusunda
+hemfikir olan bireylerden oluşan, bu ortak hedefe yönelik
+kısa-/orta-/uzun-vadeli eylem planına sahip bir organizasyondur.  Bu,
+geleceği günümüze getirecek olan bir startup şeklinde örgütlenme
+yapısıdır.
+
+Büyük şirketler kendi yükleri altında uyuşuk halde, günlük
+operasyonlarının ve var olan ürün ve hizmetlerini rakiplerinden
+savunmanın telaşı içinde meşgul, ufukta beliren teknolojik değişimleri
+fark edemeyecek vaziyettedirler.  Veya, ufuktaki yıkıcı yenilikleri
+fark etseler de, bu farkındalığa göre hareket etmekten ve onun
+gereklerini eyleme dökmekten acizdirler.
+
+Devlet daireleri (lol) ise, büyük şirketlerin dezavantajlarına ek
+olarak, bir de yolsuzluk, yozlaşma, ve meritokrasiden uzak rütbe
+atamaları sorunlarından muzdariptir.  Buralarda aynı zamanda,
+görevlerini yerine getirme kalitesinden bağımsız olarak, sürekli gelen
+maaş rahatlığının getirdiği bir uyuşmadan da bahsedilebilir.
+Hükümetler, yeni teknolojiyi bırakalım, daha geçen 10 yıl boyunca var
+olan teknolojiyi anlamayan insanlarla doludur.  Oralar özgür pazar
+ekonomilerinin gerektirdiği soğuk ve keskin maliyet ve performans
+odaklı doğal seçilim baskısından uzaktadırlar -- eğitim bakanlığı ve
+onun barındırdığı bir yığın burokratlar ülkenin eğitim sistemi ne
+kadar kötü olursa olsun maaş almaya ve makamlarının ekmeğini yemeye
+devam edeceklerdir.
+
+Sadece startup örgütlenme yapısı geleceği bugüne getirmek için gerekli
+olan akıl gücü, zindelik, ve canlılık kaynağıdır.  Sadece startup
+ortamlarında kendisine sıradan olmaktan ziyade destansı bir hayat
+çizgisi seçen, kalbi güç isteğiyle yanıp tutusan genç kurucuların
+eylemleri saha bulabilir.
+
+** Tekeller yarattıkları değerleri koruyabilmekte başarılıdırlar
+
+Girişimcinin görev tanımı geleceği günümüze getirmektir.  Gelecek
+insan hareketlerinin günümüzdekilerden farklı olduğu yerdir.  İnsan
+hareketlerindeki bu değişikliğin kaynağı dikey ilerlemenin getirdiği
+yeni ürünler ve hizmetlerdir.  Ve bu çeşit bir değişimi geleceğe
+erişip günümüze getirmeyi sağlayen örgütlenme şekli teknoloji
+startup'larında görülen örgütlenme şeklidir.
+
+Yeni bir ekonomik değer yaratabilmek, startup şirketinin kendisi için
+yeterli değildir.  Aynı startup, günden güne hareketlerini
+karşılayabilmesi için, yarattığı bu değerin bir kısmını geri toplamak
+/zorundadır/.  Bir teknoloji startup'ını sıradan şirketlerden ayıran
+şeylerden birisi, öncekinin yarattığı pazarlarda mutlak hakimiyet
+pesinde olmasıdır.
+
+Birbirleriyle rekabet içinde bulunan şirketlerin oluşturduğu
+pazarlarda düşük kâr payı vardır.  Bu pazarlara yeni giren şirket,
+pazarda sunulan ürünün miktarını artırarak onların fiyatını aşağıya
+çeker.  Boylece kârlılık payları gittikçe küçülür, pazara yeni katılan
+şirketin başlangıçtaki sebebi (kârdan pay elde etmek) ortadan kalkmış
+olur.  Tüm bunlar birbirleriyle rekabet eden şirketlerin çalışanlarına
+düşük ücret vermelerine, uzun çalışma saatleri dayatmalarına, ve bütün
+iş deneyiminin ormanda hayat mücadelesine döndüğü bir deneyim olmasına
+sebep olur.  Birbirleriyle rekabet icindeki şirketlerin yarattıkları
+kâr payı, rekabetin ısısında buharlaşıp giderken, şirketlerin
+cüzdanına giren kazanç azalır.  Bu açıdan, rekabetçi şirketlerin
+bulunduğu bir pazara girmek kaybeden olmak, veya (en iyi ihtimalle)
+hayal kırıcı bir deneyim elde etmekle sonuçlanır.
+
+Tekelci şirketler ise göreli olarak sağlam ve sürekli pazar hakimiyet
+pozisyonunda bulunan, yüksek kâr payı kazancından yararlanan
+şirketlerdir.  Bu cesit bir kârlılık, onların çalışanlarına daha
+yüksek maaş verebilmelerine, esnek çalışma saatleri olanaklarına ve iş
+yerinde daha ferah bir ortam sunabilmelerine sebep olur.  (Buradaki
+ele aldığımız durumda, tekelci şirketin tekel pozisyonuna devlet
+tarafından el üstünde tutulmaktan ziyade, ürün ve hizmetinin
+diğerlerine kıyasla daha üstün olması sebebiyle eriştğini
+varsayıyoruz.  Google ve onun arama motoru pazarındaki baskınlığı bu
+tartışmamıza uygun bir örnektir.)
+
+Tekel kârlılığı, ayrıca, onu elde eden şirketin gözünü yerdeki toz
+topraktan kaldırıp, ufka çevirmesine ve orada beliren teknik
+olasılıkları değerlendirmesine, onlar için hazırlanmasına ve hatta
+yepyeni dikey ilerlemelere sebep olacak ürün ve hizmetleri bugüne ve
+buraya getirmesine yardımcı olur.  Google'ın geniş kâr payı onun
+Android işletim sistemi, Waymo otonom taksi sistemi, Google Drive ve
+GMail gibi yan girişimlerini besleyecek parayı sağlamıştır.  Eğer
+Google tekel kazançlığına sahip olmasaydı, bu yan hizmetleri
+yaratmasına ve küresel capta milyonlarca insanın hayatını
+kolaylaştırıp onların üretkenliklerini artırmasına da sebep
+olamayacaktı.
+
+Özet olarak, tekel kârlılığı çalışma ortamını daha insancıl yapar.
+Onu elde eden şirketin zaman tercihini ("time preference") düşürür
+(onu daha uzun vadeli düşünmeye iter).  Böylece o şirket daha başka
+dikey ilerleme yaratacak yenilikleri geleceğin ufkundan çekip bugüne
+taşıyabilir.
+
+* Bir sonraki Türk Sam Altman'a öğütler
+
+/Zero to One/ kitabının daha sadece ilk 4 bölüme baktık, fakat çoktan
+sıradan bir "startup dersine katılan Türk girişimcinin" *düşünce
+yapısını* değiştiren fikirlere rastladık.  Bu yeni elde ettiğiniz
+düşünce şeklini bir özetleyelim: gelecek, bugünkü insan
+davranışlarının değişerek kendilerini daha hızlı ve verimli
+alternatiflerine bıraktıkları bir yerdir.  Bu yeni insan davranış
+şekilleri bilim ve teknolojideki yeni anlayışlar ve buluşlardan kaynak
+alır.  Bir teknoloji girişimcisi olarak senin *gücünün* kaynağı
+geleceğe ait belirli bir değişikliği bugüne getiren bir örgüt olmak,
+bunu sağlayan bir ürün ve hizmet sunmak, ve ardından yeni oluşan bu
+pazarda baskın duruma gelmektir.  Bu nedenle, dikkatin bilinen
+tekniğin ufkunda bulunmalı, silah arkadaşların teknikle ilgili
+kişilerin oluşturduğu bir özel harekat timi olmalı, ve kurduğun
+startup'ın eylemleri yarattığınız pazarı tamamen ele geçirme üzerine
+olmalı.  Bu aynı zamanda senin üniversitendeki bir sonraki
+girişimcilik yarışmasında, tekrar bir ChatGPT-wrapper'i yaratmaman
+gerektiği anlamına gelir.  Çünkü bir sonraki Sam Altman bir LLM
+chatbot'u yaratmayacak.
+
+#+begin_src
+monero:88mhBV9oWhENuwvPgzsGur9QfCh3kvFNNXwnncpMHkA7jhV5WraykQ1TFLypWnqyS17MtWyDa1RLTha4qHFaTFy1CcrCM1n
+#+end_src
