@@ -37,16 +37,6 @@ ile işletmelerini ayakta tutabilirken, aynı zamanda, yazılımın
 tabanına ulaşabilirler.  Bunların hepsini yerelde bulunan herhangi bir
 "otoriteden" izin istemek zorunda kalmadan yapabilirler.
 
-O halde ana sorumuza geri donelim: Istanbul'da neden cigir acmis
-startup CEO'lari yok?  Belki de cevaplardan birisi, "Onlar
-Berlin/Amsterdam/San Francisco'ya gectiler."  Pekala.  Beyin gocu
-orneklerini ayri tutarsak, elimizde hala oldukca yuksek egitimli
-(egitimin kendisi her ne kadar bozuk olsa da) ve genc bir nufus var.
-Eger Turkiye'deki en iyi 10 universitelerin yerleskelerine giderseniz,
-etrafinizda oldukca zeki, genc insanlar goreceksiniz.  Demek oluyor
-ki, elimizde islenmemiz /menschenmaterial/ var, fakat, eksik olan sey
-biraz *katalizor*.
-
 O halde ana sorumuza geri dönelim: İstanbul'da neden çığır açmış
 startup CEO'ları yok?  Belki de cevaplardan birisi, "Onlar
 Berlin/Amsterdam/San Francisco'ya gectiler."  Pekala.  Beyin göçü
@@ -56,7 +46,6 @@ Eğer Türkiye'deki en iyi 10 üniversitenin yerleşkelerine giderseniz,
 etrafınızda oldukça zeki, genç insanlar göreceksiniz.  Demek oluyor
 ki, elimizde işlenmemiş /menschenmaterial/ var, fakat, eksik olan şey
 biraz *katalizör*.
-
 
 #+ATTR_HTML: :title Basit ev gereçlerinden çeşitli patlayıcılar yapmak mümkün
 #+ATTR_HTML: :alt Basit ev gereçlerinden çeşitli patlayıcılar yapmak mümkün
