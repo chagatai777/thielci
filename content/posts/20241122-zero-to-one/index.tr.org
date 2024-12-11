@@ -1,4 +1,4 @@
-%#+TITLE: Sıfırdan Bire
+#+TITLE: Sıfırdan Bire
 #+DATE: 2024-11-22T09:16:01Z
 #+SLUG: zero-to-one
 #+AUTHOR: Çağatay Eren
